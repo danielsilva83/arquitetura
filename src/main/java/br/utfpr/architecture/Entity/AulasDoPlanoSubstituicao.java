@@ -1,6 +1,6 @@
 package br.utfpr.architecture.Entity;
 
-
+//seguem o modelo de implementação das entidades para a implementação do orm jpa, que depois utilizará as entidades para o mapeamento no banco de dados
 import java.io.Serializable;
 
 import javax.persistence.Entity;
